@@ -51,3 +51,13 @@
 - **git reset --hard (ID do commit):** remove os commits sucessores (já 'commitados')
 
 
+
+## Repositórios remotos
+
+- **git push origin master:** envia as alterações para o repositório no Github
+
+- **git clone (link do repositório) (nome da pasta para ser criada):** clona o repositório para sua máquina local
+
+**Obs:** caso você não seja dono do repositório, deve-se fazer um 'fork' do repositório antes de enviar as alterações
+
+
