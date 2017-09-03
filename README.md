@@ -60,6 +60,8 @@
 
 - **git clone (link do repositório) (nome da pasta para ser criada):** clona o repositório para sua máquina local
 
+- **git clone -b (branch) (link do repositório):** clona o branch selecionado para sua máquina local
+
 **Obs:** caso você não seja dono do repositório, deve-se fazer um 'fork' do repositório antes de enviar as alterações
 
 
